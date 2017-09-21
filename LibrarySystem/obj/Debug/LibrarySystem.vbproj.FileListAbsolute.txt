@@ -1,0 +1,164 @@
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+C:\Users\Michael\Desktop\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+D:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+D:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+G:\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+G:\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+G:\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+G:\LibrarySystem\LibrarySystem\obj\Debug\ResolveAssemblyReference.cache
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+G:\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Michael\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Michael\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\Michael\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+E:\Users\L\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2008\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KyleWilfredIco\Documents\Visual Studio 2010\Projects\LibrarySystem\LibrarySystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\mohamud\Downloads\Compressed\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\maxamuud siciid\All Applications\project\Visual studio 2010\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\maxamuud siciid\All Applications\project\Visual studio 2010\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+D:\maxamuud siciid\All Applications\project\Visual studio 2010\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+D:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.xml
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAbout.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddBooks.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmAddStudent.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmBorrowsBook.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChangePassword.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmChooseStudents.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmCreateUserAccount.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditBooks.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmEditStudentsRecord.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofStudents.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListofBooks.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmListOfStudentsBorrowed.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogIn.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmMainMenu.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBook.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmReturnedBooks.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Resources.resources
+E:\maxamuud siciid\All Applications\project\Visual studio 2013\librarysystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.vbproj.GenerateResource.Cache
